@@ -11,9 +11,9 @@
 
 - 👯 Je suis aussi le créateur de [FunMC](https://funmc.fr)
 
-- 👨‍💻 Discord [Jimmy Rich | Craftaserv.com#2445](Jimmy Rich | Craftaserv.com#2445)
+- 👨‍💻 Discord: **Jimmy Rich | Craftaserv.com#2445**
 
-- 📫 E-Mail **contact@jimmyrich.fr**
+- 📫 E-Mail: **contact@jimmyrich.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -15,7 +15,7 @@
 
 - 📫 E-Mail: **contact@jimmyrich.fr**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Réseau social:</h3>
 <p align="left">
 <a href="https://twitter.com/jimmyr57000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimmyr57000" height="30" width="40" /></a>
 </p>

@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jimmyr57000" target="blank"><img src="https://img.shields.io/twitter/follow/jimmyr57000?logo=twitter&style=for-the-badge" alt="jimmyr57000" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [Craftaserv](https://craftaserv.com)
+- 🔭 Gérant de [Craftaserv](https://craftaserv.com)
 
-- 👯 Je suis aussi le créateur de [FunMC](https://funmc.fr)
+- 👯 Créateur de [FunMC](https://funmc.fr)
 
 - 👨‍💻 Discord: **Jimmy Rich | Craftaserv.com#2445**
 
